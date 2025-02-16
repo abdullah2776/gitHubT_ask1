@@ -9,5 +9,6 @@ int main(){
     cout<<num1<<endl;
     //last commit 
     cout<<"congratulations! \nwe have done our first taks"<<endl;
+    cout<<"done"<<endl;
     return 0;
 }
