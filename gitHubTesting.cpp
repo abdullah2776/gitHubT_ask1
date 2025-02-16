@@ -6,6 +6,8 @@ int main(){
     cout<<"second update"<<endl;
     //declaration num and print this number 
     int num1=0;
-    cout<<num1<<endl
+    cout<<num1<<endl;
+    //last commit 
+    cout<<"congratulations! \nwe have done our first taks"<<endl;
     return 0;
 }
